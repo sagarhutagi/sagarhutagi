@@ -8,7 +8,7 @@
 - **Web Development:** MERN Stack, Git, GitHub, MySQL  
 - **Programming:** C++, C#, DSA  
 - **Tools & Platforms:** Docker, Linux, Terminal  
-- **Creative Tech:** Blender, Unreal Engine, Unity  
+- **Creative Tech:** Blender, Unreal Engine, Unity, Premiere Pro
 
 ---
 
@@ -23,20 +23,16 @@
 
 ### 🌐 [Portfolio](https://sagarhutagi.github.io/)  
 Personal portfolio website built after 10th grade during vacation.  
-
 ### 🚢 [Smart Ship](https://drive.google.com/file/d/1BZz6glL9o3w-IC6s5pwm-dUTCaBAwCi-/view)  
 A project showcasing IoT/automation concepts (demo video linked).  
-
 ### 🎓 [Weekend Express](https://weekendexpress.vercel.app/)  
 Website for professionals/students to learn new skills on weekends.  
 - Built with Firebase Studio  
 - Includes admin panel with full CRUD operations  
-
 ### 📔 [Daily Diary](https://github.com/sagarhutagi/dailydiary)  
 12th grade Informatics Practices final project.  
 - Online diary writing system with mood ratings, tags, titles, dates  
 - Edit options & login system  
-
 ### 🏥 [Health Hub](https://sagarhutagi.github.io/healthhub/)  
 Website for people in remote areas with limited internet.  
 - Provides home remedies & medicine info  
