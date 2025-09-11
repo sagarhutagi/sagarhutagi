@@ -6,7 +6,7 @@
 
 ## 💻 Technical Skills
 - **Web Development:** MERN Stack, Git, GitHub, MySQL  
-- **Programming:** C++, C#, DSA  
+- **Programming:** C++, Python, C#, DSA  
 - **Tools & Platforms:** Docker, Linux, Terminal  
 - **Creative Tech:** Blender, Unreal Engine, Unity, Premiere Pro
 
@@ -22,7 +22,7 @@
 ## 🚀 Projects
 
 ### 🌐 [Portfolio](https://sagarhutagi.github.io/)  
-Personal portfolio website built after 10th grade during vacation.  
+Personal portfolio website built after 10th grade during vacation.  [Link](https://sagarhutagi.github.io/)  
 ### 🚢 [Smart Ship](https://drive.google.com/file/d/1BZz6glL9o3w-IC6s5pwm-dUTCaBAwCi-/view)  
 A project showcasing IoT/automation concepts (demo video linked).  
 ### 🎓 [Weekend Express](https://weekendexpress.vercel.app/)  
