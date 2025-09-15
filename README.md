@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sagar Hutagi  
 
-📍 Bangalore, India | 📧 sagarmh6364@gmail.com | 📞 +91-9380341579 | 🌐 [Portfolio](https://sagarhutagi.github.io/) | [LinkedIn](https://linkedin.com/in/sagarhutagi) | [GitHub](https://github.com/sagarhutagi)  
+📍 Bangalore, India | 📧 sagarmh6364@gmail.com | 📞 +91-9380341579 | 🌐 [Portfolio](https://sagarhutagi.github.io/) | [LinkedIn](https://linkedin.com/in/sagarhutagi)
 
 ---
 
@@ -8,7 +8,7 @@
 - **Web Development:** MERN Stack, Git, GitHub, MySQL  
 - **Programming:** C++, Python, C#, DSA  
 - **Tools & Platforms:** Docker, Linux, Terminal  
-- **Creative Tech:** Blender, Unreal Engine, Unity, Premiere Pro
+- **Creative Tech:** Blender, Unity, Unreal Engine, Premiere Pro
 
 ---
 
