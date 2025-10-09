@@ -22,7 +22,7 @@
 ## 🚀 Projects
 
 ### 🌐 [Portfolio](https://sagarhutagi.github.io/)  
-Personal portfolio website built after 10th grade during vacation.  [Link](https://sagarhutagi.github.io/)  
+Personal portfolio website built after 10th grade during vacation.  [Video Link](https://sagarhutagi.github.io/)  
 ### 🚢 [Smart Ship](https://drive.google.com/file/d/1BZz6glL9o3w-IC6s5pwm-dUTCaBAwCi-/view)  
 A project showcasing IoT/automation concepts (demo video linked).  
 ### 🎓 [Weekend Express](https://weekendexpress.vercel.app/)  
