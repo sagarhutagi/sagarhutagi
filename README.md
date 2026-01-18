@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sagar Hutagi  
 
-📍 Bangalore, India | 📧 sagarmh6364@gmail.com | 📞 +91-9380341579 | 🌐 [Portfolio](https://sagarhutagi.github.io/) | [LinkedIn](https://linkedin.com/in/sagarhutagi)
+📍 Bangalore, India | 📧 sagarmh6364@gmail.com | 📞 +91-9380341579 | 🌐 [Portfolio](https://sagarhutagi.vercel.app/) | [LinkedIn](https://linkedin.com/in/sagarhutagi)
 
 ---
 
@@ -21,8 +21,8 @@
 
 ## 🚀 Projects
 
-### 🌐 [Portfolio](https://sagarhutagi.github.io/)  
-Personal portfolio website built after 10th grade during vacation.  [Video Link](https://sagarhutagi.vercel.app/)  
+### 🌐 [Portfolio](https://sagarhutagi.vercel.app/)  
+Personal portfolio website built after 10th grade during vacation.
 ### 🚢 [Smart Ship](https://drive.google.com/file/d/1BZz6glL9o3w-IC6s5pwm-dUTCaBAwCi-/view)  
 A project showcasing IoT/automation concepts (demo video linked).  
 ### 🎓 [Weekend Express](https://weekendexpress.vercel.app/)  
