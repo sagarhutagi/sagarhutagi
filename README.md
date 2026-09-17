@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sagar Hutagi  
 
-📍 Bangalore, India | 📧 sagarmh6364@gmail.com | 📞 +91-9380341579 | 🌐 [Portfolio](https://sagarhutagi.vercel.app/) | [LinkedIn](https://linkedin.com/in/sagarhutagi)
+📍 Bangalore, India | 📧 sagarmh6364@gmail.com | 🌐 [Portfolio](https://sagarhutagi.vercel.app/) | [LinkedIn](https://linkedin.com/in/sagarhutagi)
 
 
 ## 💻 Technical Skills
